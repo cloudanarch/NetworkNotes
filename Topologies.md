@@ -7,9 +7,11 @@
 - Most Common 
 
     Pro
+
         > one break, the rest are okay.
     
     Con 
+
         > If hub fails (single point of failure) they all fail.
 
 ### Bus 
@@ -17,9 +19,11 @@
 - Old. No open connections allowed. Terminators can't be loose or else they will bounce back (signal reflection)
 
     Pro 
+
         > Cheap and easy to implement
 
     Con 
+
         > Requires BNC (t) connectors w/ coaxial and terminators both sides. 
 
 ### Ring 
@@ -28,9 +32,11 @@
 - Rarely used today
 
     Pro
+
         > Easy to install and troubleshoot
 
     Con 
+
         > If one computer goes down or a single break would disrupt all dataflow. 
 
 ### Mesh
@@ -38,6 +44,7 @@
 - Connects to every computer. 
 
     Pro
+    
         > Handles failure very well. 
         > Expensive so rarely used on LAN, mostly used on Internet or WAN. 
         > High Redundency level. 
