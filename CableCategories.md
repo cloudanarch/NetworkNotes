@@ -2,9 +2,13 @@
 
 
 cat 3 > 10mbps > 10Base-T
+
 cat 5 > 100mbps > 100BASE-T/TX
+
 cat 5e > 1000mbps > 1000BASET
-cat 6 > 1000mbps / 1000 under 100m >
+
+cat 6 > 1000mbps / 1000 under 100m > 
+
 cat 6a > 10000mbps > 10GBASET (100m)
 
 ## UTP
@@ -12,7 +16,7 @@ cat 6a > 10000mbps > 10GBASET (100m)
 - Prevents crosstalk 
 - used on LAN
 
-##STP
+## STP
 - Shielded twisted pair
 - foil shield (prevents EMI)
 
