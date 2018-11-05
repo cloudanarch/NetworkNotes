@@ -2,6 +2,14 @@
 
 ## Study Guide - C480 Network+ CompTIA 
 
+### Credits: 
+
+These notes are based on this video: [CompTIA Network+ Certification Video Course](https://hooktube.com/watch?v=vrh0epPAC5w) 
+
+Published by [PowerCert Animated Videos](https://hooktube.com/channel/UCJQJ4GjTiq5lmn8czf8oo0Q)
+
+Originally Uploaded on: 15 Mar 2016
+
 ### Table of Contents 
 
 [Authentication Protocols]()
@@ -9,6 +17,8 @@
 [Cable Catagories](https://github.com/cloudanarch/NetworkNotes/blob/master/CableCategories.md)
 
 [Cable Standards](https://github.com/cloudanarch/NetworkNotes/blob/master/CableStandards.md)
+
+[Cloud & Virtualization]()
 
 [Connectors](https://github.com/cloudanarch/NetworkNotes/blob/master/Connectors.md)
 
@@ -25,6 +35,8 @@
 [Network Components](https://github.com/cloudanarch/NetworkNotes/blob/master/NetworkComponents.md)
 
 [Networking Services](https://github.com/cloudanarch/NetworkNotes/blob/master/NetworkingServices.md)
+
+[Networking Tools Safety]()
 
 [Network Types](https://github.com/cloudanarch/NetworkNotes/blob/master/NetworkTypes.md)
 
