@@ -4,7 +4,7 @@
 
 ### Credits: 
 
-These notes are based on this video: [CompTIA Network+ Certification Video Course](https://hooktube.com/watch?v=vrh0epPAC5w) 
+These notes are based on this video: [CompTIA Network+ Certification Video Course](https://hooktube.com/watch?v=vrh0epPAC5w) [Archived File TBD]('')
 
 Published by [PowerCert Animated Videos](https://hooktube.com/channel/UCJQJ4GjTiq5lmn8czf8oo0Q)
 
@@ -12,7 +12,7 @@ Originally Uploaded on: 15 Mar 2016
 
 ### Table of Contents 
 
-[Authentication Protocols]()
+[Authentication Protocols](https://github.com/cloudanarch/NetworkNotes/blob/master/AuthProtocols.md)
 
 [Cable Catagories](https://github.com/cloudanarch/NetworkNotes/blob/master/CableCategories.md)
 
@@ -36,9 +36,11 @@ Originally Uploaded on: 15 Mar 2016
 
 [Networking Services](https://github.com/cloudanarch/NetworkNotes/blob/master/NetworkingServices.md)
 
-[Networking Tools Safety]()
+[Networking Tools Safety](https://github.com/cloudanarch/NetworkNotes/blob/master/NetworkingToolsSafety.md)
 
 [Network Types](https://github.com/cloudanarch/NetworkNotes/blob/master/NetworkTypes.md)
+
+[Optimization & Fault Tolerance]()
 
 [OSI Model](https://github.com/cloudanarch/NetworkNotes/blob/master/osiModel.md)
 
@@ -54,7 +56,11 @@ Originally Uploaded on: 15 Mar 2016
 
 [Topologies](https://github.com/cloudanarch/NetworkNotes/blob/master/Topologies.md)
 
+[VLAN, Intranet & Extranet]()
+
 [WAN Technologies](https://github.com/cloudanarch/NetworkNotes/blob/master/WanTechnologies.md)
+
+[Wiring Distribution]()
 
 [Wireless Technologies](https://github.com/cloudanarch/NetworkNotes/blob/master/WiringStandards.md)
 
