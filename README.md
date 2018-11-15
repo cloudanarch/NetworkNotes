@@ -4,7 +4,7 @@
 
 ### Credits: 
 
-These notes are based on this video: [CompTIA Network+ Certification Video Course](https://hooktube.com/watch?v=vrh0epPAC5w) [Archived File TBD]('')
+These notes are based on this video: [CompTIA Network+ Certification Video Course](https://hooktube.com/watch?v=vrh0epPAC5w) 
 
 Published by [PowerCert Animated Videos](https://hooktube.com/channel/UCJQJ4GjTiq5lmn8czf8oo0Q)
 
@@ -18,9 +18,11 @@ Originally Uploaded on: 15 Mar 2016
 
 [Cable Standards](https://github.com/cloudanarch/NetworkNotes/blob/master/CableStandards.md)
 
-[Cloud & Virtualization]()
+[Cloud & Virtualization](https://github.com/cloudanarch/NetworkNotes/blob/master/CloudVirtualization.md)
 
 [Connectors](https://github.com/cloudanarch/NetworkNotes/blob/master/Connectors.md)
+
+[Ethernet]()
 
 [Firewalls](https://github.com/cloudanarch/NetworkNotes/blob/master/Firewalls.md)
 
@@ -40,7 +42,9 @@ Originally Uploaded on: 15 Mar 2016
 
 [Network Types](https://github.com/cloudanarch/NetworkNotes/blob/master/NetworkTypes.md)
 
-[Optimization & Fault Tolerance]()
+[Network Utilities]()
+
+[Optimization & Fault Tolerance](https://github.com/cloudanarch/NetworkNotes/blob/master/OptimizationFaultTolerance.md)
 
 [OSI Model](https://github.com/cloudanarch/NetworkNotes/blob/master/osiModel.md)
 
@@ -50,17 +54,21 @@ Originally Uploaded on: 15 Mar 2016
 
 [Routing Protocols](https://github.com/cloudanarch/NetworkNotes/blob/master/RoutingProtocols.md)
 
+[Security Protocols]()
+
+[SOHO Routers]()
+
 [Subnetting](https://github.com/cloudanarch/NetworkNotes/blob/master/Subnetting.md)
 
 [TCP/IP Protocols & Suites](https://github.com/cloudanarch/NetworkNotes/blob/master/tcpIpProtocolSuites.md)
 
 [Topologies](https://github.com/cloudanarch/NetworkNotes/blob/master/Topologies.md)
 
-[VLAN, Intranet & Extranet]()
+[VLAN, Intranet & Extranet](https://github.com/cloudanarch/NetworkNotes/blob/master/VlanIntranetExtranet.md)
 
 [WAN Technologies](https://github.com/cloudanarch/NetworkNotes/blob/master/WanTechnologies.md)
 
-[Wiring Distribution]()
+[Wiring Distribution](https://github.com/cloudanarch/NetworkNotes/blob/master/WiringDistribution.md)
 
 [Wireless Technologies](https://github.com/cloudanarch/NetworkNotes/blob/master/WiringStandards.md)
 

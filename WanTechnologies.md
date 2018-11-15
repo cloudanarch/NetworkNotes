@@ -53,3 +53,36 @@
 
 - Fiber optic tech
 - 51.84 multiples x = speed 
+
+
+
+### MISC 
+
+- ESS (extended service set) is a WLAN containing two or more APs
+
+- BSS (basic service set) is a WLAN containing one AP. 
+
+- Independent Basic Service Set (IBSS) WLAN can be created without the use of an access point (AP). 
+
+    > AdHoc/Temporary
+
+-  Question 1 :	What locally significant identifier is used by a Frame Relay network to reference a virtual circuit?
+
+    > The Data link Connection Identifier signifies the local node. 
+
+- An ATM cell features a 48-byte data area. 
+
+- The MPLS header is 32 bits in length. Inside this header is the label itself. 
+
+- The DMVPN is a powerful option for hub-and-spoke WAN environments. 
+
+- PAP is rarely seen in use today because it is a clear-text protocol. 
+
+- The HFC typically features multiple media types. 
+
+        > Fiber
+
+        > Coax
+
+- ADSL = 18k feet
+

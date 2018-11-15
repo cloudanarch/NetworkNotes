@@ -39,3 +39,4 @@
 - Extension to PPP
 - Supports many uses of auth
 - Commonly used with smart cards. 
+- Used for 801.11x

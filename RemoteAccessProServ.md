@@ -34,6 +34,7 @@
 
 - default protocol for VPN
 - creates secure tunnel between two points  
+- USES MICROSOFT !
 
 ## GRE (generic route encapsulation)
 

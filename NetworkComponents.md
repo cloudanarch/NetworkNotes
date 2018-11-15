@@ -25,7 +25,7 @@
 
 - Intelligent, learns addresses into table to know where packet goes
 - delivers only to intended destination. 
-
+- Creates collision domains 
 - Operates at LAYER 2 of OSI model 
 
 #### Multilayer Switch

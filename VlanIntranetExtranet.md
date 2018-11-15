@@ -35,3 +35,7 @@
 
         > A Company A Business partner needs to access Company B certain info
         > Company B grants certain permissions to be able to access internal netowrk. 
+
+#### MISC
+
+- 802.1Q method for sending traffic for multiple VLANs across a signle link. 

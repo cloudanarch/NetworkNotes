@@ -41,6 +41,12 @@
 
 ### Mesh
 
+- Full Mesh Formula n(n-1)/2
+
+    > EX 5 Devices
+
+        > 10
+
 - Connects to every computer. 
 
     Pro

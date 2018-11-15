@@ -81,9 +81,14 @@
 
 - 2006
 - Shielded and Unshielded TP 
-- Cat6a = 100m
+- Cat6a = 100m <MINIMUM>
 - Cat6 = 55m 
 - 1000 mbps
+
+### 10G BASE - LR
+
+- SMF
+- 10km
 
 ### 10G BASE - sr
 
@@ -100,8 +105,7 @@
 
 - Specifically for SONET 
     > Synchronous optical networks. 
-
-    
+- 300m
 
 
 

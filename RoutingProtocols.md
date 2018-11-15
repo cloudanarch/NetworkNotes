@@ -32,6 +32,7 @@
 
 - factors distance via hops
 - hop is how many routers data packet must pass thru to destination. 
+- RIP cannot be used in large networks due to a maximum hop count of 15. 
 - RIP: Routing information protocol 
 
         > oldest
@@ -45,6 +46,9 @@
 
         > Standard for internet
         > based on Paths and Policies
+        > routing protocol that is used for moving prefixes back and forth between different autonomous systems
+        > Based on a variety of parameters 
+
 
 ### Link State
 
@@ -54,6 +58,7 @@
 
             > Open Shortest Path First
             > Determines correct routes using IP and creates topology map of network 
+            > Determined by "cost" / Bandwidth 
 
     > IS-IS (intermediate system to intermediate system)
         
@@ -91,3 +96,33 @@
         > can monitor quality of data delivered
 
 - both unicast and multicast. 
+
+## BGP 
+
+- External protocol 
+- Uses complex set of metrics called path vectors. 
+- BGP is the protocol that makes the Internet a reality. 
+
+
+#### Administrative Distances
+
+- RIP 120
+
+- OSPF 110
+
+- Internal BGP 200
+
+- External EIGRP 170
+
+- EIGRP 90
+
+### Routing Protocol Charactaristics 
+
+- The better the administrative distance, the more believable the protocol. Lower is better for the AD score. 
+
+- nonoverlapping channels should have a 10-15% overlap coverage. 
+
+### MISC 
+
+- The client-to-router protocol in multicast is IGMP. 
+

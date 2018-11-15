@@ -31,6 +31,15 @@
             > Higher than 9 = Letters starting at A
                 > A = 10, B = 11 etc...
 
+
+    - Five Types of NDP messages used by IPv6 Device
+
+            > Router Solicitation (RS)
+            > Router Advertisement (RA) (advertises presence along with link info)
+            > Neighbor Solicitation (NS) (locates neighbors on network)
+            > Neighbor Advertisement(NA)
+            > Redirect
+
 ## Subnet Mask
 
 - Masks network portion of IP address.
@@ -61,3 +70,8 @@
     B   172.16.0.0 - 172.31.255.255             255.255.0.0
     C   192.168.0.0 - 192.168.255.255           255.255.255.0
 
+### MISC
+
+- Split horizon and poison reverse are critical loop preventions for early routing protocols. 
+
+- The default route is 0.0.0.0/0.

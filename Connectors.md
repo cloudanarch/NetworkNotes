@@ -75,7 +75,7 @@
 - Standard Push pull
 - Also used between floors. 
 
-### RS=232
+### RS-232
 
 - Serial (one bit at a time)
 - This is most common (VGA type)
