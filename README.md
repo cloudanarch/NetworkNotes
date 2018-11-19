@@ -22,7 +22,7 @@ Originally Uploaded on: 15 Mar 2016
 
 [Connectors](https://github.com/cloudanarch/NetworkNotes/blob/master/Connectors.md)
 
-[Ethernet]()
+[Ethernet](https://github.com/cloudanarch/NetworkNotes/blob/master/Ethernet.md)
 
 [Firewalls](https://github.com/cloudanarch/NetworkNotes/blob/master/Firewalls.md)
 
@@ -42,7 +42,7 @@ Originally Uploaded on: 15 Mar 2016
 
 [Network Types](https://github.com/cloudanarch/NetworkNotes/blob/master/NetworkTypes.md)
 
-[Network Utilities]()
+[Network Utilities](https://github.com/cloudanarch/NetworkNotes/blob/master/NetworkUtilities.md)
 
 [Optimization & Fault Tolerance](https://github.com/cloudanarch/NetworkNotes/blob/master/OptimizationFaultTolerance.md)
 
@@ -54,9 +54,9 @@ Originally Uploaded on: 15 Mar 2016
 
 [Routing Protocols](https://github.com/cloudanarch/NetworkNotes/blob/master/RoutingProtocols.md)
 
-[Security Protocols]()
+[Security Protocols](https://github.com/cloudanarch/NetworkNotes/blob/master/SecurityProtocols.md)
 
-[SOHO Routers]()
+[SOHO Routers](https://github.com/cloudanarch/NetworkNotes/blob/master/SOHORouters.md)
 
 [Subnetting](https://github.com/cloudanarch/NetworkNotes/blob/master/Subnetting.md)
 

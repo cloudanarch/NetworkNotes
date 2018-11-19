@@ -95,3 +95,7 @@
 - Class of Service (CoS) implements packet tagging in a local area network (LAN). It tags the different types of traffic, such as video streaming or VoIP. The tag is a value between 0 and 8, with 0 being the highest priority. Quality of Service (QoS) uses the CoS tag to determine which traffic gets priority. 
 
 - One approach to providing Layer 3 redundancy is to have multiple links between devices and select a routing protocol that load balances over the links. Additionally, Link Aggregation Control Protocol (LACP) lets you assign multiple physical links to a logical interface, which appears as a single link to a route processor.
+
+- VRRP is an IETF open standard that operates almost identically to HSRP from Cisco Systems. 
+
+- Link Fragmentation and Interleaving (LFI) and RTP Header Compression (cRTP) are both link efficiency mechanisms, which attempt to make a more efficient use of relatively limited WAN bandwidth. LFI can fragment large packets and interleave smaller packets (for example, voice over IP packets) in amongst the fr

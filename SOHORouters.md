@@ -14,6 +14,7 @@
 
 - 40 bit key insecure
 - Super easy to hack
+- RC4
 
 #### WPA
 
@@ -23,6 +24,7 @@
 #### WPA2 
 
 - Stronger than WPA (CCMP > TKIP) (encapsulated crypto mechanism)
+- AES
 
 #### WPS 
 
